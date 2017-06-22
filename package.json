@@ -1,0 +1,15 @@
+{
+  "name": "cat-image-layer",
+  "version": "1.0.0",
+  "description": "A image layer with a cat that moves around the extent pen",
+  "main": "CatImageLayer/CatImageLayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.0.0"
+  }
+}
